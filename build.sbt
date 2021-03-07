@@ -1,6 +1,6 @@
 name := "SparkPlayGround"
 
-version := "1.0"
+version := "0.1-spark-submit-local-pod-and-deployments"
 
 scalaVersion := "2.11.8"
 
